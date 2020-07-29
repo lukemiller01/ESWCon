@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">ESWCon2021</string>
+
+    <string name="dreams4"><i>HAD I the heavens’ embroidered cloths,
+Enwrought with golden and silver light,
+The blue and the dim and the dark cloths
+Of night and light and the half light,
+I would spread the cloths under your feet:
+But I, being poor, have only my dreams;
+I have spread my dreams under your feet;
+        Tread softly because you tread on my dreams.</i></string>
+
+    // Map string
+    <string name="google_maps_API_Key">AIzaSyD3vmW_pNy8R3DwI-EXnIWV0j0rXHuJOWY</string>
+
+    // Firestore strings
+    <string name="collection_users">Users</string>
+    <string name="collection_user_locations">User Locations</string>
+
+
+    // SCHEDULE FRAGMENT
+
+
+    // Schedule fragment, Wednesday
+    <string-array name="EventsWednesday">
+        <item> Optional Tour 1 </item>
+        <item> Optional Tour 2 </item>
+        <item> Optional Tour 3 </item>
+        <item> ESW HQ Meet and Greet </item>
+        <item> Social - Conference Kick Off </item>
+    </string-array>
+
+    <string-array name="TimeWednesday">
+        <item> 2:00 – 3:00 </item>
+        <item> 3:00 – 4:00 </item>
+        <item> 4:00 – 5:00 </item>
+        <item> 5:00 – 6:00 </item>
+        <item> 6:00 – 10:00 </item>
+    </string-array>
+
+    <string-array name="LocationWednesday">
+        <item> Location 1 </item>
+        <item> Location 2 </item>
+        <item> Location 3 </item>
+        <item> Location 4 </item>
+        <item> Location 5 </item>
+    </string-array>
+
+    <string-array name="DescriptionWednesday">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+    </string-array>
+
+
+    // Schedule fragment, Thursday
+    <string-array name="EventsThursday">
+        <item> Breakfast and Registration </item>
+        <item> Keynote 1 </item>
+        <item> Design Challenge </item>
+        <item> Lunch </item>
+        <item> Session 1 </item>
+        <item> Session 2 </item>
+        <item> Career Fair </item>
+        <item> Break, Tours, Service </item>
+        <item> Dinner </item>
+        <item> Professional Mixer </item>
+    </string-array>
+
+    <string-array name="TimeThursday">
+        <item> 7:30 – 9:00 </item>
+        <item> 9:00 – 10:00 </item>
+        <item> 10:00 – 12:00 </item>
+        <item> 12:00 – 1:00 </item>
+        <item> 1:00 – 2:00 </item>
+        <item> 2:00 – 3:00 </item>
+        <item> 3:00 – 5:00 </item>
+        <item> 5:00 – 7:00 </item>
+        <item> 7:00 – 8:00 </item>
+        <item> 8:00 – 10:00 </item>
+    </string-array>
+
+    <string-array name="LocationThursday">
+        <item> Location 1 </item>
+        <item> Location 2 </item>
+        <item> Location 3 </item>
+        <item> Location 4 </item>
+        <item> Location 5 </item>
+        <item> Location 6 </item>
+        <item> Location 7 </item>
+        <item> Location 8 </item>
+        <item> Location 9 </item>
+        <item> Location 10 </item>
+    </string-array>
+
+    <string-array name="DescriptionThursday">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+        <item> Description 6 </item>
+        <item> Description 7 </item>
+        <item> Description 8 </item>
+        <item> Description 9 </item>
+        <item> Description 10 </item>
+    </string-array>
+
+
+    // Schedule fragment, Friday
+    <string-array name="EventsFriday">
+        <item> Breakfast and Registration </item>
+        <item> Session 3 </item>
+        <item> Poster Session </item>
+        <item> Lunch + Keynote 2 </item>
+        <item> Break, Tours, Service </item>
+        <item> Session 4 </item>
+        <item> Design Challenge </item>
+        <item> Dinner </item>
+        <item> Student Socials </item>
+    </string-array>
+
+    <string-array name="TimeFriday">
+        <item> 7:30 – 9:00 </item>
+        <item> 9:00 – 10:00 </item>
+        <item> 10:00 – 12:00 </item>
+        <item> 12:00 – 2:00 </item>
+        <item> 2:00 – 4:00 </item>
+        <item> 4:00 – 5:00 </item>
+        <item> 5:00 – 7:00 </item>
+        <item> 7:00 – 8:00 </item>
+        <item> 8:00 – 10:00 </item>
+    </string-array>
+
+    <string-array name="LocationFriday">
+        <item> Location 1 </item>
+        <item> Location 2 </item>
+        <item> Location 3 </item>
+        <item> Location 4 </item>
+        <item> Location 5 </item>
+        <item> Location 6 </item>
+        <item> Location 7 </item>
+        <item> Location 8 </item>
+        <item> Location 9 </item>
+    </string-array>
+
+    <string-array name="DescriptionFriday">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+        <item> Description 6 </item>
+        <item> Description 7 </item>
+        <item> Description 8 </item>
+        <item> Description 9 </item>
+    </string-array>
+
+
+    // Schedule fragment, Saturday
+    <string-array name="EventsSaturday">
+        <item> Breakfast and Registration </item>
+        <item> Workshop </item>
+        <item> Session 5 </item>
+        <item> Lunch </item>
+        <item> Design Challenge </item>
+        <item> Break / Tours </item>
+        <item> Banquet + Keynote 3 </item>
+    </string-array>
+
+    <string-array name="TimeSaturday">
+        <item> 7:30 – 9:00 </item>
+        <item> 9:00 – 11:00 </item>
+        <item> 11:00 – 12:00 </item>
+        <item> 12:00 – 1:00 </item>
+        <item> 1:00 – 4:00 </item>
+        <item> 4:00 – 6:00 </item>
+        <item> 6:00 – 10:00 </item>
+    </string-array>
+
+    <string-array name="LocationSaturday">
+        <item> Location 1 </item>
+        <item> Location 2 </item>
+        <item> Location 3 </item>
+        <item> Location 4 </item>
+        <item> Location 5 </item>
+        <item> Location 6 </item>
+        <item> Location 7 </item>
+    </string-array>
+
+    <string-array name="DescriptionSaturday">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+        <item> Description 6 </item>
+        <item> Description 7 </item>
+    </string-array>
+
+
+    // Schedule fragment, Sunday
+    <string-array name="EventsSunday">
+        <item> Breakfast and Registration </item>
+        <item> Tours + Service </item>
+        <item> Ending lunch </item>
+    </string-array>
+
+    <string-array name="TimeSunday">
+        <item> 7:30 – 9:00 </item>
+        <item> 9:00 – 12:00 </item>
+        <item> 12:00 – 1:00 </item>
+    </string-array>
+
+    <string-array name="LocationSunday">
+        <item> Location 1 </item>
+        <item> Location 2 </item>
+        <item> Location 3 </item>
+    </string-array>
+
+    <string-array name="DescriptionSunday">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+    </string-array>
+
+
+
+
+
+    // Map details
+
+    <string-array name="LocationMap">
+        <item> Solar Charging Station </item>
+        <item> ESW-UB Clubspace </item>
+        <item> Solar Strand </item>
+        <item> Letchworth Woods </item>
+        <item> Solar Smoothie Cart </item>
+        <item> Solar Boat Project </item>
+        <item> Composting Station </item>
+        <item> UB Office of Sustainability </item>
+        <item> Parks Project - Rainwater Collection System </item>
+        <item> GroW Home </item>
+        <item> Parks Project - Pergola </item>
+        <item> Parks Project - Pallet Benches 1 </item>
+        <item> Parks Project - Pallet Benches 2 </item>
+        <item> Solar Sprouts </item>
+    </string-array>
+
+    <string-array name="DescriptionMap">
+        <item> Solar Charging Station description </item>
+        <item> ESW-UB Clubspace description </item>
+        <item> Solar Strand description </item>
+        <item> Letchworth Woods description </item>
+        <item> Solar Smoothie Cart description </item>
+        <item> Solar Boat Project description </item>
+        <item> Composting Station description </item>
+        <item> UB Office of Sustainability description </item>
+        <item> Parks Project - Rainwater Collection System description </item>
+        <item> GroW Home description </item>
+        <item> Parks Project - Pergola description </item>
+        <item> Parks Project - Pallet Benches 1 description </item>
+        <item> Parks Project - Pallet Benches 2 description </item>
+        <item> Solar Sprouts </item>
+    </string-array>
+
+    // Settings
+
+    <string-array name="Settings">
+        <item> About </item>
+        <item> Reset password </item>
+        <item> Help + FAQ </item>
+    </string-array>
+
+</resources>

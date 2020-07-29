@@ -1,0 +1,54 @@
+<RelativeLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/descriptionR"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textview01"
+            android:text="Event"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:layout_centerHorizontal="true"
+            >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textview02"
+            android:text="Time"
+            android:layout_below="@+id/textview01"
+            android:textSize="16sp"
+            android:layout_centerHorizontal="true"
+            >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textview03"
+            android:text="Location"
+            android:layout_below="@+id/textview02"
+            android:textSize="16sp"
+            android:layout_centerHorizontal="true"
+            >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textview04"
+            android:text="Description"
+            android:layout_below="@+id/textview03"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            >
+        </TextView>
+
+</RelativeLayout>

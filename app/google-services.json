@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959408808371",
+    "firebase_url": "https://eswcon2021.firebaseio.com",
+    "project_id": "eswcon2021",
+    "storage_bucket": "eswcon2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959408808371:android:973432e0892bc01f6c2bc6",
+        "android_client_info": {
+          "package_name": "com.example.eswcon2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959408808371-elkdaobmij7d4vle0ct7htaa2msbl723.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqIy9MzWfWSlTtLxe_5RjqX_IXFEtf0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959408808371-elkdaobmij7d4vle0ct7htaa2msbl723.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
